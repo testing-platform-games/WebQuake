@@ -2,7 +2,7 @@
 
 **WebQuake** is an HTML5 WebGL port of the game Quake by id Software.
 
-[Online demo by SpiritQuaddicted](http://quaddicted.com/forum/viewtopic.php?pid=438).
+[Use it here](https://testing-platform-games.github.io/WebQuake/Client).
 
 # Installing and running
 
